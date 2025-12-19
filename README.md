@@ -18,7 +18,7 @@ Equipe :
 
 - cd Jeu-du-Pendu-Collaboratif
 
-- python main.py
+- Nom du fichier: Jeu-du-Pendu-Collaboratif
 
 ---
 
